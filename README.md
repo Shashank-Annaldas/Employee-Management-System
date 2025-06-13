@@ -1,3 +1,12 @@
+## 🧾 Employee Management System (CRUD App)
+A full-stack CRUD application developed with **Spring Boot (backend)**, **React.js (frontend)**, and **MySQL (database)**.  
+Features include:
+- Add, view, update, and delete employee records
+- REST API with Spring Boot and JPA
+- Responsive UI built with React.js
+- Data persisted using MySQL
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
